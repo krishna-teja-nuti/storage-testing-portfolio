@@ -1,0 +1,2 @@
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdb1       9.8G  803M  8.5G   9% /teststorage
