@@ -1,0 +1,8 @@
+  File: /teststorage/file_100mb
+  size: 104857600 	Blocks: 204800     IO Block: 4096   regular file
+Device: 8,17	Inode: 16          Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/ teja4b5)   Gid: ( 1000/ teja4b5)
+Access: 2026-06-20 16:45:19.799528913 +0530
+Modify: 2026-06-20 16:45:19.855528073 +0530
+Change: 2026-06-20 16:45:19.855528073 +0530
+ Birth: 2026-06-20 16:45:19.799528913 +0530

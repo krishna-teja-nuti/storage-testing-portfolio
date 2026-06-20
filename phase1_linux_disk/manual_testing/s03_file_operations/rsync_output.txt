@@ -1,0 +1,5 @@
+sending incremental file list
+file_100mb_moved
+
+sent 104.88M bytes  received 35 bytes  69.92M bytes/sec
+total size is 104.86M  speedup is 1.00
