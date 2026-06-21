@@ -1,0 +1,3 @@
+2026-06-21 16:32:54 - test_s03_create_file PASSED - 10MB test file created successfully
+2026-06-21 16:32:54 - test_s03_sparse_file_behavior PASSED - apparent: 500.0MB, actual: 0	/teststorage/auto_sparse_file
+2026-06-21 16:33:23 - test_s03_filesystem_full_behavior PASSED - filesystem reached 100%

@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 from run_command import run_command
 
-RESULTS_DIR = "../results/s01_results"
+RESULTS_DIR = "results/s01_results"
 os.makedirs(RESULTS_DIR, exist_ok=True)
 LOG_FILE = os.path.join(RESULTS_DIR, "s01_test.log")
 

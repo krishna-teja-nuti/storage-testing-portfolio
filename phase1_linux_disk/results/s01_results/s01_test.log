@@ -1,3 +1,0 @@
-2026-06-21 16:00:15 - test_s01_disk_count PASSED - Disks found: ['sda', 'sdb', 'sdc']
-2026-06-21 16:00:15 - test_s01_uuid_present PASSED - UUID found
-2026-06-21 16:00:15 - test_s01_partition_table_types PASSED - Both GPT and DOS found
