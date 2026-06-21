@@ -1,0 +1,49 @@
+14: IDE 300.0: 10600 Disk
+  [Created at block.255]
+  Unique ID: WZeP.rqBq6oXHTwA
+  Parent ID: qnJ_.3_X41NtKT36
+  SysFS ID: /class/block/sdb
+  SysFS BusID: 3:0:0:0
+  SysFS Device Link: /devices/pci0000:00/0000:00:0d.0/ata4/host3/target3:0:0/3:0:0:0
+  Hardware Class: disk
+  Model: "VBOX HARDDISK"
+  Vendor: "VBOX"
+  Device: "HARDDISK"
+  Revision: "1.0"
+  Serial ID: "VB49b6851d-4a92344f"
+  Driver: "ahci", "sd"
+  Driver Modules: "ahci"
+  Device File: /dev/sdb
+  Device Files: /dev/sdb, /dev/disk/by-id/ata-VBOX_HARDDISK_VB49b6851d-4a92344f, /dev/disk/by-diskseq/12, /dev/disk/by-path/pci-0000:00:0d.0-ata-2.0, /dev/disk/by-path/pci-0000:00:0d.0-ata-2
+  Device Number: block 8:16-8:31
+  BIOS id: 0x80
+  Geometry (Logical): CHS 1305/255/63
+  Size: 20971520 sectors a 512 bytes
+  Capacity: 10 GB (10737418240 bytes)
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #3 (SATA controller)
+
+16: IDE 200.0: 10600 Disk
+  [Created at block.255]
+  Unique ID: 3OOL.ktix1aad2W2
+  Parent ID: qnJ_.3_X41NtKT36
+  SysFS ID: /class/block/sda
+  SysFS BusID: 2:0:0:0
+  SysFS Device Link: /devices/pci0000:00/0000:00:0d.0/ata3/host2/target2:0:0/2:0:0:0
+  Hardware Class: disk
+  Model: "VBOX HARDDISK"
+  Vendor: "VBOX"
+  Device: "HARDDISK"
+  Revision: "1.0"
+  Serial ID: "VBe75f6291-a9ffa665"
+  Driver: "ahci", "sd"
+  Driver Modules: "ahci"
+  Device File: /dev/sda
+  Device Files: /dev/sda, /dev/disk/by-diskseq/11, /dev/disk/by-path/pci-0000:00:0d.0-ata-1.0, /dev/disk/by-path/pci-0000:00:0d.0-ata-1, /dev/disk/by-id/ata-VBOX_HARDDISK_VBe75f6291-a9ffa665
+  Device Number: block 8:0-8:15
+  BIOS id: 0x81
+  Geometry (Logical): CHS 5221/255/63
+  Size: 83886080 sectors a 512 bytes
+  Capacity: 40 GB (42949672960 bytes)
+  Config Status: cfg=new, avail=yes, need=no, active=unknown
+  Attached to: #3 (SATA controller)

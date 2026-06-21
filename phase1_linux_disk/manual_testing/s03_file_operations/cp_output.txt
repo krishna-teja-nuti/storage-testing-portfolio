@@ -1,0 +1,3 @@
+total 200M
+-rw-rw-r-- 1 teja4b5 teja4b5 100M Jun 20 16:45 file_100mb
+-rw-rw-r-- 1 teja4b5 teja4b5 100M Jun 20 16:49 file_100mb_copy

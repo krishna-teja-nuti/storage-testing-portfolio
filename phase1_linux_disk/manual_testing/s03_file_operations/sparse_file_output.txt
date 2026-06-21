@@ -1,0 +1,2 @@
+-rw-rw-r-- 1 teja4b5 teja4b5 1000M Jun 20 16:57 /teststorage/sparse_file
+0	/teststorage/sparse_file

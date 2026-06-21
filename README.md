@@ -1,68 +1,40 @@
 # Storage Testing Portfolio
 
-**Krishna Teja Nuti** | Aspiring Storage QA Engineer / SDET Storage
+**Krishna Teja Nuti** — Aspiring Storage QA Engineer / SDET Storage
+
+🎯 **Target Roles:** Storage QA Engineer · SDET Storage · Storage Validation Engineer · NAS/SAN Test Engineer · Backup & Recovery QA Engineer
 
 ---
 
-## About
+## 📌 About
 
 Hands-on storage testing portfolio covering Linux storage internals, NFS/SMB/iSCSI 
 protocols, RAID, NetApp ONTAP enterprise arrays, backup/recovery testing, and 
 cloud/Kubernetes storage — built through a structured 52-session program combining 
 **manual testing** and **Python/pytest automation**.
 
----
-
-## Target Roles
-
-| Priority | Role |
-|----------|------|
-| 1 | Storage QA Engineer / Storage Test Engineer |
-| 2 | SDET - Storage / Test Automation Engineer |
-| 3 | Storage Validation Engineer |
-| 4 | NAS/SAN Test Engineer |
-| 5 | Backup & Recovery QA Engineer / Data Protection Test Engineer |
+Every session in this repo includes two things side by side:
+- ✅ Real command outputs and findings from hands-on testing
+- ✅ A working Python automation script that tests the same thing
 
 ---
 
-## Repository Structure
+## 🗂️ Repository Structure
 
-storage-testing-portfolio/
+Each phase folder is split into two halves:
 
-│
+| Folder | What it contains |
+|---|---|
+| `manual_testing/` | Command outputs, observations, Jira-style bug reports |
+| `automation_testing/` | Python scripts + pytest test suites |
 
-├── phase1_linux_disk/
-
-│   ├── manual_testing/        ← command outputs, observations, Jira-style bug reports
-
-│   └── automation_testing/    ← Python scripts + pytest test suites
-
-│
-
-├── phase2_protocols/
-
-├── phase3_reliability/
-
-├── phase4_hardware_nvme/
-
-├── phase5_netapp_ontap/
-
-├── phase6_backup_recovery/
-
-├── phase7_cloud_kubernetes/
-
-└── phase8_framework/          ← master test runner, Jira API, HTML reports
-
-
-Every phase follows the same pattern — manual evidence on one side, 
-automated proof on the other.
 
 ---
 
-## Phases & Sessions
+## 📖 Phases & Sessions
 
-| Phase | Sessions | Topic |
-|-------|----------|-------|
+| # | Sessions | Phase |
+|---|---|---|
 | 1 | S01–S09 | Linux & Disk Fundamentals + Security |
 | 2 | S10–S19 | Storage Protocols, Multipathing & Performance |
 | 3 | S20–S27 | Reliability, Failure & Recovery Testing |
@@ -74,19 +46,21 @@ automated proof on the other.
 
 ---
 
-## Core Skills
+## 🛠️ Core Skills
 
-**Linux Storage** — disk/filesystem internals, LVM, RAID (mdadm), encryption (LUKS)
-**Protocols** — NFS, SMB/CIFS, iSCSI, Fibre Channel, Multipathing
-**Enterprise Arrays** — NetApp ONTAP CLI and REST API
-**Performance** — fio benchmarking, iostat, IOPS/latency analysis
-**Automation** — Python, subprocess, pytest, logging, JSON, regex
-**Cloud** — AWS S3, EBS, Kubernetes PV/PVC/CSI
-**Backup & Recovery** — RPO/RTO testing, Commvault/Veeam concepts
+| Area | Skills |
+|---|---|
+| Linux Storage | disk/filesystem internals, LVM, RAID (mdadm), encryption (LUKS) |
+| Protocols | NFS, SMB/CIFS, iSCSI, Fibre Channel, Multipathing |
+| Enterprise Arrays | NetApp ONTAP CLI and REST API |
+| Performance | fio benchmarking, iostat, IOPS/latency analysis |
+| Automation | Python, subprocess, pytest, logging, JSON, regex |
+| Cloud | AWS S3, EBS, Kubernetes PV/PVC/CSI |
+| Backup & Recovery | RPO/RTO testing, Commvault/Veeam concepts |
 
 ---
 
-## Running the Automation Suite
+## ▶️ Running the Automation Suite
 
 ```bash
 cd phase1_linux_disk/automation_testing
@@ -95,6 +69,6 @@ pytest test_phase1.py
 
 ---
 
-## Contact
+## 📬 Contact
 
-GitHub: [krishna-teja-nuti](https://github.com/krishna-teja-nuti)
+GitHub: [@krishna-teja-nuti](https://github.com/krishna-teja-nuti)

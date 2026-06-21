@@ -1,0 +1,2 @@
+tail      10782                            root   6r      REG               8,17 524288000         14 /teststorage/openfile.dat (deleted)
+tail      10782 10783 notify-rs            root   6r      REG               8,17 524288000         14 /teststorage/openfile.dat (deleted)
