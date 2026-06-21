@@ -1,0 +1,1 @@
+0	/teststorage/auto_sparse_file
