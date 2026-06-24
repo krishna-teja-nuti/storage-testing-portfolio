@@ -1,0 +1,3 @@
+2026-06-21 16:32:51 - test_s02_df_command_works PASSED - df returned data for /teststorage
+2026-06-21 16:32:51 - test_s02_du_command_works PASSED - du output: 20K	/teststorage
+2026-06-21 16:32:54 - test_s02_no_deleted_open_files PASSED - no deleted open files found
