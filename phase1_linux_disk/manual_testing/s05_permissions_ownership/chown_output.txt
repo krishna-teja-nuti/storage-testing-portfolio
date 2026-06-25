@@ -1,0 +1,1 @@
+-rw-r--r-- 1 teja4b5 teja4b5 0 Jun 24 09:12 /teststorage/test_permissions.txt

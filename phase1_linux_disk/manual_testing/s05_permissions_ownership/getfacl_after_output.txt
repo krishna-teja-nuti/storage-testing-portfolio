@@ -1,0 +1,9 @@
+# file: teststorage/test_permissions.txt
+# owner: teja4b5
+# group: teja4b5
+user::rw-
+user:root:rwx
+group::r--
+mask::rwx
+other::r--
+

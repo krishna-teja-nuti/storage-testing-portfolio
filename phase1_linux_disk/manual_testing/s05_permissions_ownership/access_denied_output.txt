@@ -1,0 +1,1 @@
+bash: line 1: /teststorage/test_permissions.txt: Permission denied

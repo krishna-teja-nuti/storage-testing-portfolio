@@ -1,0 +1,1 @@
+-r-------- 1 root root 0 Jun 24 09:12 /teststorage/test_permissions.txt
